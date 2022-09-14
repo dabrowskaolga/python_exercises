@@ -1,4 +1,4 @@
-number_list = [5, 8, 2, 3, 7, 10]
+number_list = [5, 8, 2, -3, 3, 7, -15, 10]
 max_number = number_list[0]
 
 for i in range(1, len(number_list)):
